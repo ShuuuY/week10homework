@@ -77,14 +77,14 @@
                   "url": "https://raw.githubusercontent.com/ShuuuY/week9homework/main/Olympic.csv"
                 },
                 "key": "Country",
-                "fields": ["summer_total"]
+                "fields": ["SummerTotalMedals"]
               }
             }
           ],
           "mark": {"type": "geoshape", "stroke": "grey"},
           "encoding": {
             "color": {
-              "field": "summer_total",
+              "field": "SummerTotalMedals",
               "type": "quantitative",
               "scale": {
                 "type": "threshold",
@@ -99,7 +99,7 @@
                 "title": "Country"
               },
               {
-                "field": "summer_total",
+                "field": "SummerTotalMedals",
                 "type": "quantitative",
                 "title": "Total medals"
               }
