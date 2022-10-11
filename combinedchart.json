@@ -111,8 +111,7 @@
     {
       "width": 600,
       "height": 300,
-      "title":"Top 10 countries with the highest number of medals(1896-2018) in Olympics",
-      
+      "title": "Top 10 countries with the highest number of medals(1896-2018) in Olympics",
       "data": {
         "url": "https://raw.githubusercontent.com/ShuuuY/week9homework/main/Olympic_top10.csv"
       },
